@@ -1,0 +1,25 @@
+{
+  "name": "@root/common",
+  "version": "0.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "Guilherme Santiago <guilhermess@pbtech.net.br>",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "components": "components"
+  },
+  "files": [
+    "components"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "react": "16.6.3",
+    "react-dom": "16.6.3"
+  }
+}
